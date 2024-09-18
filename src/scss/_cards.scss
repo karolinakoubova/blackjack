@@ -8,6 +8,9 @@ $shadow: 0 0 6px #333333;
   align-items: center;
   height: $card-height + 1rem;
   margin: 0.5rem 3rem;
+  position: relative;
+  top: -100vh;
+  left: 20%;
 }
 
 .card {

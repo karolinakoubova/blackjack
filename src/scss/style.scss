@@ -34,6 +34,11 @@ margin-top: 10px;
 margin-bottom: 20px;
 }
 
+button:hover {
+    width: 97%;
+    height: 35px;
+}
+
 .dealer {
 margin-right: 5px;
 border-right: 4px solid $blue;
@@ -68,6 +73,11 @@ border-right: 4px solid $blue;
 
         button {
             width: 45%;
+        }
+
+        button:hover {
+            width: 47%;
+            height: 35px;
         }
     }
 }
